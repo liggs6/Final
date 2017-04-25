@@ -1,0 +1,32 @@
+206 Final project output 
+
+This text file consists of information about three movies, the twitter accounts associated with those movies, and the most recent tweet of each movie's Twitter account.
+
+Movie #1: Logan, starring actor Hugh Jackman
+Logan received an imdb score of 8.5.
+The Movie's official twitter account @WolverineMovie has 223343 followers.
+The most recent tweet on this account reads: Some want to see the beauty, but you should see the beast. #Logan is now playing in theaters. Get your tickets now:… https://t.co/IeQbYUNe8G
+This tweet received 2786 favorites.
+Followers to imdb score ratio: 223343/8.5 = 26275.6
+
+Movie #2: Split, starring actor James McAvoy
+Split received an imdb score of 7.4.
+The Movie's official twitter account @splitmovie has 11188 followers.
+The most recent tweet on this account reads: Maybe she can help us.
+
+#Split with Alternate Ending 
+Now on Digital HD, Blu-ray &amp; DVD
+https://t.co/kY1DeHQ59U https://t.co/wUyp73NXQn
+This tweet received 120 favorites.
+Followers to imdb score ratio: 11188/7.4 = 1511.89
+
+Movie #3: Get Out, starring actor Daniel Kaluuya
+Get Out received an imdb score of 8.2.
+The Movie's official twitter account @GetOutMovie has 10817 followers.
+The most recent tweet on this account reads: Things are getting serious. #GetOut https://t.co/d164xe01m6
+This tweet received 45 favorites.
+Followers to imdb score ratio: 10817/8.2 = 1319.14
+
+Miscellaneous info: 
+Movies sorted by imdb score: [('Logan', 8.5), ('Get Out', 8.2), ('Split', 7.4)]
+Movies sorted by number of followeres: [('Logan', 223343), ('Split', 11188), ('Get Out', 10817)]

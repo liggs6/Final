@@ -1,0 +1,69 @@
+SI 206 W17
+Put your name here:  Brian Liggio
+
+1)Project and Summary.
+
+	I picked project 2 for this assignment.  I created this project to gather data from the OMDB and Tweepy API’s.  The project gathers a list of the top actor for three movies, Split, Logan, and Get Out, then searches the Tweepy API for their user timelines.  
+
+2)Running the Code.
+
+>Requires twitter_info file to run
+	- contains keys for Tweepy Api
+>python 206_final_project
+	- command used to run the file
+
+3)Functionality.
+
+>Gather data from Tweepy and OMDB APIs
+	-relevant info about three different movies
+		-Logan, Get Out, Split
+		-Director, Top billed actor, imdb score, languages, etc…
+	-number of followers for the top billed actor of each movie
+	-creates a database for relevant info about Movies, Users, and Tweets
+>Output
+
+4)Files included.
+
+>Twitter_info
+ 	- holds the keys to access Tweepy API
+>Requests
+	- to make requests to the APIs
+>json
+	- to handle json objects and for the cache file
+>pprint
+	- for printing and debugging purposes
+>unittest
+	- necessary to run required tests
+>sqlite3
+	- necessary for required database interactions
+
+5)Functions.
+
+>
+
+
+6)Class.
+
+7)Database creation.
+
+>Movies
+	-movie_id (imdb id of movie), title, director, imdb (imdv score of movie), top_billed 		(top billed actor for each movie), languages (diff languages used in each movie)
+	-each row represents a different movie
+>Users
+
+>Tweets
+
+8)Data manipulation.
+
+
+
+
+
+
+
+
+
+
+
+
+
